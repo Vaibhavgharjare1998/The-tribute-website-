@@ -1,2 +1,2 @@
 # The-tribute-website-
-I develop Tribute website using HTML &amp; CSS
+I developed Tribute website using HTML &amp; CSS
